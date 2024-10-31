@@ -1,0 +1,860 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelavo - Facebook Pixel Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-29 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: pixelavo"
+
+#. %s: Event Name
+#: includes/pixel-extra-events-data.php:50
+#, php-format
+msgid "%s server event run successfully"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:639
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:769
+msgid "A Product Feed is required to use Facebook Dynamic Product Ads."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:241
+msgid "Access Token"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:271
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:623
+msgid "Action"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:145
+msgid "Add custom events to your site"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:615
+msgid "Add custom parameters here."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add facebook pixel to your website to track the actions people take when "
+"they interact with it."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:522
+msgid "Add New Event"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:183
+msgid "Add New Pixel"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:91
+msgid "Add pixels to your site"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:13
+msgid "Additional Purchase Information"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:12
+msgid "Additional User Information"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:924
+msgid "Additional user information."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:158
+msgid "Advance Settings"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:11
+msgid "Advanced Matching to Boost Meta Conversions"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:934
+msgid "Advanced Matching."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:112
+msgid "All Data Restored"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:122
+msgid "All settings has been reset successfully."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:115
+#: admin/settings-panel/includes/classes/Admin/Menu.php:129
+msgid "Are you sure?"
+msgstr ""
+
+#. %1$s: project name
+#. %2$s: strong start tag
+#. %3$s: strong end tag
+#. %4$s: a start tag with url
+#. %5$s: a end tag
+#: admin/class-diagnostic-data.php:482
+#, php-format
+msgid ""
+"At %2$s%1$s%3$s, we prioritize continuous improvement and compatibility. To "
+"achieve this, we gather non-sensitive diagnostic information and details "
+"about plugin usage. This includes your site's URL, the versions of WordPress "
+"and PHP you're using, and a list of your installed plugins and themes. We "
+"also require your email address to provide you with exclusive discount "
+"coupons and updates. This data collection is crucial for ensuring that "
+"%2$s%1$s%3$s remains up-to-date and compatible with the most widely-used "
+"plugins and themes. Rest assured, your privacy is our priority – no spam, "
+"guaranteed. %4$sPrivacy Policy%5$s"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:97
+msgid "Buy Now"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:96
+msgid "BUY PRO"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:562
+msgid "Choose where on your site to trigger this event."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:905
+msgid "Completed"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:233
+msgid "Conversion Api Status"
+msgstr ""
+
+#: admin/class-diagnostic-data.php:490
+msgid "Count Me In"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:521
+msgid "Custom Event List"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:48
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:137
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:144
+msgid "Custom Events"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:103
+msgid "Data Saved"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:91
+msgid "Data saved successfully!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:675
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:792
+msgid "Default Product Brand"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:273
+msgid "Delete"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:136
+msgid "Deleted!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:746
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:857
+msgid "Description Field"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:107
+msgid "Disable All"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:116
+msgid "Easy Digital Downloads Events"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:111
+msgid "EDD Events"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:272
+msgid "Edit"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:935
+msgid ""
+"Enable Advanced Matching for all events. According to Facebook, advanced "
+"matching has assisted businesses in increasing attributed conversions by 10% "
+"and campaign reach by 20% through retargeting."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:106
+msgid "Enable All"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:130
+msgid "Enable events from the list below."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:242
+msgid "Enter access token here"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:254
+msgid "Enter test code here (Remove the test code after testing events)"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:576
+msgid "Enter the css class or id that will trigger the event on click."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:589
+msgid "Enter the css class or id that will trigger the event on hover."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:602
+msgid "Enter the url that will trigger the event on click."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:195
+msgid "Enter your Facebook pixel ID here"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:688
+msgid ""
+"Enter your numeric Google Product Category ID here. For instance, if your "
+"category is \"Apparel & Accessories > Clothing > Dresses,\" enter 2271. You "
+"can find a current spreadsheet of all categories and IDs <a href=\"http:"
+"//www.google.com/basepages/producttype/taxonomy-with-ids.en-US.xls\">here</a>"
+"."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:621
+msgid "Event"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:526
+msgid "Event Name"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:10
+msgid "Exclude Bouncing Visitors"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:700
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:808
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:631
+msgid "Exclude Roles"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:712
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:821
+msgid "Exclude Tags"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:662
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:778
+msgid "Feed Url"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:472
+msgid ""
+"Fires the event when scroll position reaches the specified value in "
+"percentage. Default: 30%."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:496
+msgid ""
+"Fires the event when time reaches the specified value in seconds. Default: "
+"30 seconds."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:485
+msgid "Fires when a visitor stays on a page for a specified amount of time."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:461
+msgid "Fires when the website visitor scrolls the page."
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:5
+msgid "Get Pixelavo Pro"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:687
+msgid "Google Product Category"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:649
+msgid ""
+"Having a lot of product variations can cause load issues with your feed, "
+"disable to exclude variations from the feed."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hasthemes.com/plugins/"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:676
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:793
+msgid ""
+"If a product does not have a brand name, we will assign a placeholder brand "
+"using the name you provide."
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:21
+msgid ""
+"If you have any questions, concerns, or feedback, please do not hesitate to "
+"reach out to us. We are always available and ready to assist you with your "
+"needs. Thank you for choosing our products and services, and we look forward "
+"to hearing from you soon!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:913
+msgid "Include additional information with the Purchase event."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:925
+msgid ""
+"Include HTTP referrer, user language, post categories, and tags as event "
+"parameters, allowing you to build more precise custom audiences."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:648
+msgid "Include Variations"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:116
+msgid ""
+"It will reset all the settings to default, and all the changes you made will "
+"be deleted."
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:8
+msgid "Multiple Custom Event Support"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:7
+msgid "Multiple Pixel Support"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:118
+msgid "No"
+msgstr ""
+
+#: admin/class-diagnostic-data.php:493
+msgid "No, Thanks"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:237
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:287
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:298
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:309
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:320
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:331
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:342
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:353
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:366
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:377
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:389
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:400
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:411
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:422
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:435
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:445
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:455
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:465
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:489
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:513
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:643
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:653
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:773
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:918
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:929
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:939
+msgid "Off"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:123
+msgid "OK"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:236
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:286
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:297
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:308
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:319
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:330
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:341
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:352
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:365
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:376
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:388
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:399
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:410
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:421
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:434
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:444
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:454
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:464
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:488
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:512
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:642
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:652
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:772
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:917
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:928
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:938
+msgid "On"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:897
+msgid "On Hold"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:124
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:129
+msgid "Other Events"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:98
+msgid ""
+"Our free version is great, but it doesn't have all our advanced features. "
+"The best way to unlock all of the features in our plugin is by purchasing "
+"the pro version."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:219
+msgid "Page Lists"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:614
+msgid "Parameters"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:194
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:265
+msgid "Pixel ID"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:83
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:182
+msgid "Pixel List"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:187
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:264
+msgid "Pixel Name"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:37
+#: admin/settings-panel/includes/classes/Admin/Menu.php:38
+msgid "Pixelavo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pixelavo - Facebook Pixel Analytics"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:47
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:90
+msgid "Pixels"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:94
+msgid "Pro"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:901
+msgid "Processing"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:768
+msgid "Product Feed (Easy Digital Downloads)."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:638
+msgid "Product Feed (WooCommerce)."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:724
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:834
+msgid "Product Identifier"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:110
+msgid "Reset All Settings"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:121
+msgid "Reset!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:111
+msgid "Resetting..."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:142
+#: admin/settings-panel/includes/classes/Admin/Menu.php:156
+msgid "Save"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:101
+msgid "Save Settings"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:150
+#: admin/settings-panel/includes/classes/Admin/Menu.php:164
+msgid "Saved"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:102
+#: admin/settings-panel/includes/classes/Admin/Menu.php:146
+#: admin/settings-panel/includes/classes/Admin/Menu.php:160
+msgid "Saving..."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:201
+msgid "Select Page"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:30
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:31
+msgid "Select pixel events from the list below."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:159
+msgid "Select pixel settings from the list below."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:220
+msgid "Select specifi pages form the list"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:202
+msgid "Select the page type"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:701
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:809
+msgid "Selected product categories will not be included in your feed."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:713
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:822
+msgid "Selected product tags will not be included in your feed."
+msgstr ""
+
+#. %1$s: a start tag with url
+#. %2$s: a end tag
+#: admin/class-diagnostic-data.php:488
+#, php-format
+msgid ""
+"Server information (Web server, PHP version, MySQL version), WordPress "
+"information, site name, site URL, number of plugins, number of users, your "
+"name, and email address. You can rest assured that no sensitive data will be "
+"collected or tracked. %1$sLearn more%2$s."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:725
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:835
+msgid ""
+"Set how to identify your product using the Facebook Pixel (content_id) and "
+"the feed (g:id). Please make sure to have SKUs set on your products if you "
+"choose WooCommerce SKU."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:747
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:858
+msgid ""
+"Set the field to use as your product description for the Facebook product "
+"catalog."
+msgstr ""
+
+#: includes/base.php:156
+#: admin/settings-panel/includes/classes/Admin/Menu.php:49
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:152
+msgid "Settings"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:267
+msgid "Status"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:19
+#: admin/settings-panel/includes/templates/sidebar-banner.php:20
+msgid "Support And Feedback"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:575
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:588
+msgid "Target CSS Selector"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:561
+msgid "Target Pages"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:601
+msgid "Target URL"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:253
+msgid "Test Event Code"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:38
+msgid ""
+"The below events require the \"Easy Digital Downloads\" plugin to be active. "
+"Please Make sure that Easy Digital Downloads has been installed and "
+"Activated."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:34
+msgid ""
+"The below events require the \"WooCommerce\" plugin to be active. Please "
+"Make sure that WooCommerce has been installed and Activated."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:914
+msgid ""
+"The Purchase event includes coupon codes (if applied) and shipping/billing "
+"information as parameters, allowing you to create more precise and effective "
+"custom audiences."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:527
+msgid "This name will help you to recognize your event."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:188
+msgid "This name will help you to recognize your pixel."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:881
+msgid ""
+"To exclude bouncing visitors from triggering the ViewContent event on "
+"product page, introduce a delay, which will be in second. Default is 0 second"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:326
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:395
+msgid "Track Add To Cart"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:315
+msgid "Track Customize Product"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:337
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:406
+msgid "Track Initiate Checkout"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:508
+msgid "Track Internal Links"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:460
+msgid "Track Page Scroll"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:348
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:417
+msgid "Track Purchase"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:304
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:384
+msgid "Track Search"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:450
+msgid "Track Self Hosted Video"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:484
+msgid "Track Time on Page"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:293
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:372
+msgid "Track View Category"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:282
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:361
+msgid "Track View Content"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:440
+msgid "Track Vimeo Video"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:430
+msgid "Track YouTube Video"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:533
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:622
+msgid "Trigger"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:471
+msgid "Trigger for scroll position."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:495
+msgid "Trigger for time on page."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:143
+#: admin/settings-panel/includes/classes/Admin/Menu.php:157
+msgid "Update"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:151
+#: admin/settings-panel/includes/classes/Admin/Menu.php:165
+msgid "Updated"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:147
+#: admin/settings-panel/includes/classes/Admin/Menu.php:161
+msgid "Updating..."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:51
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:632
+msgid ""
+"Users who are logged in and have roles selected here will not trigger your "
+"pixel events."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:880
+msgid "View Content Event Delay"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:509
+msgid "When a Internal Links got click."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:316
+msgid "When a person customizes a product."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:338
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:407
+msgid ""
+"When a person enters the checkout flow prior to completing the checkout flow."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:294
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:373
+msgid "When a person visit a product category page."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:283
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:362
+msgid "When a person visit a product details page."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:327
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:396
+msgid "When a product is added to the shopping cart."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:349
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:418
+msgid "When a purchase is made or checkout flow is completed."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:305
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:385
+msgid "When a search is made using WordPress built-in search feature."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:451
+msgid "When a Self Hosted video is played, this event will be triggered."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:441
+msgid "When a Vimeo embed video is played, this event will be triggered."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:431
+msgid "When a YouTube embed video is played, this event will be triggered."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:98
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:103
+msgid "WooCommerce Events"
+msgstr ""
+
+#: admin/settings-panel/includes/templates/sidebar-banner.php:9
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:889
+msgid "WooCommerce Purchase Event Trigger."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:117
+msgid "Yes"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:132
+msgid "Yes, delete it!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:890
+msgid ""
+"You can select the timing to initiate the <b>\"Purchase\"</b> event. By "
+"default, it occurs when the order status is <b>\"On Hold\"</b> or <b>"
+"\"Processing\"</b>."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:130
+msgid "You won't be able to revert this pixel!"
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:663
+#: admin/settings-panel/includes/classes/Admin/Options_field.php:779
+msgid "You'll need above URL when setting up your Facebook Product Catalog."
+msgstr ""
+
+#: admin/settings-panel/includes/classes/Admin/Menu.php:137
+msgid "Your pixel has been deleted."
+msgstr ""
+
+#. %1$s: project name
+#: admin/class-diagnostic-data.php:501
+#, php-format
+msgid "🌟 Enhance Your %1$s Experience as a Valued Contributor!"
+msgstr ""
